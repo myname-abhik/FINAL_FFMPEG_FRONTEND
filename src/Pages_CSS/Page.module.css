@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.Video
+{
+    width: auto;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.Player
+{
+    width: 80%;
+    
+   
+}
